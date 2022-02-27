@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of the surprise of the forts of Weymouth, the siege of Melcombe, the recovery of the forts, and raising of the siege. / By P.J. minister to the garrison.</title>
+            <author>Ince, Peter, b. 1614 or 1615.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87235</idno>
+            <idno type="STC">Wing I128</idno>
+            <idno type="STC">Thomason E274_7</idno>
+            <idno type="STC">ESTC R210069</idno>
+            <idno type="EEBO-CITATION">99868900</idno>
+            <idno type="PROQUEST">99868900</idno>
+            <idno type="VID">159488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159488)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E274[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of the surprise of the forts of Weymouth, the siege of Melcombe, the recovery of the forts, and raising of the siege. / By P.J. minister to the garrison.</title>
+                  <author>Ince, Peter, b. 1614 or 1615.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Luke Fawne, at the Parrot in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1644. [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P.J. = Peter Ince.</note>
+                  <note>Thomason catalogue lists under 1645.</note>
+                  <note>Annotation on Thomason copy: "Peeter Innse"; "March 20th"; "ye guift of Cap: ffawne".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Weymouth and Melcombe Regis (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159488:1" rendition="simple:additions"/>
+            <p>A Brief RELATION OF THE Surpriſe of the FORTS OF WEYMOUTH, The SIEGE of MELCOMBE, The Recovery of the FORTS, And Raiſing of the SIEGE.</p>
+            <p>By <hi>P. J.</hi> Miniſter to the Garriſon.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Luke Fawne,</hi> at the Parrot in <hi>Pauls</hi> Church-yard. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:159488:2"/>
+            <pb n="3" facs="tcp:159488:2"/>
+            <head>A Brief Relation.</head>
+            <p>SUch hath been the goodneſſe of God to us, that tis pitty it ſhould paſſe without a memoriall, and record; and the rather that others may not onely bleſſe God with us, but may be incouraged to a future depend<g ref="char:EOLhyphen"/>ency on the ſame power that ſaved us, if they ſhall fall into the like diſtreſſe. We deſire not to detract any thing from the many acts of divine power and goodneſſe, whereby God hath manifeſted himſelf in other places; but certainly there were not ſince theſe wars begun, a people more ſtrangely ſaved by the Lord.</p>
+            <p>In the beginning of <hi>February,</hi> we were in as ſweet a quiet and ſecurity, as any Garriſon in the Kingdom; no enemy neer us, but one at <hi>Portland,</hi> and that not very conſiderable, being but about three or four hundred men. It pleaſed God, that on a ſuddain, our Forts and quiet were loſt, one of the Forts commanded the Harbour, the other the Town. Some of the Towns<g ref="char:EOLhyphen"/>men having a long time been hatching a conſpiracy with Sir <hi>Lewis Dives,</hi> and the <hi>Portlanders,</hi> now brought their deſignes to execution.</p>
+            <p>On Sabbath day, the ninth of <hi>February,</hi> about midnight, they did lead our enemies by ſuch ſecret wayes, that they were upon our Centinels ſud<g ref="char:EOLhyphen"/>denly, and undiſcovered, and entred the Forts without any thing worthy the name of reſiſtance; and now a late Alarm was given by the Drums, and the ſhouts of our Enemies. We finding ſuch dangerous gueſts poſſeſt of thoſe places (which above a half yeers pain and ſwear, had indevoured to make our ſecurity) reſolved upon a ſudden aſſault, which we attempted, but were repulſed with the loſſe of the lives of ſome men, and the blood of more, though not many. Major <hi>Sydenham</hi> the Governours Brother (whoſe memory may not be buried with him) here received a mortall wound, of which he died the day following; his death was no ſmall joy to our enemies, to whom he was a perpetuall vexation and terrour, and no ſmall grief to us, who had our eyes too much upon him; alſo Captain <hi>Salanova</hi> was wounded, and Captain <hi>Allen,</hi> with ſome others.</p>
+            <p>In the morning following, we ſaw little but diſcomforts, our own Guns, Powder, Shot, Forts, Gunners, and in a manner, every thing but our God, againſt us. In this condition (when ſome of our friends deſerted as loſt men, and our enemies look'd upon as conquered) ſome of us made
+<pb n="4" facs="tcp:159488:3"/>it a ground of our Belief, That God would be our Saviour, becauſe he had taken other ſaviours from us. We had not ſo much as one Ship left us, but what lay under the command of our enemies.</p>
+            <p>About Noon, Sir <hi>Lewis Dives</hi> (who was expected ſooner, and as ſome ſay, ſhould at the ſame hour, have faln upon <hi>Melcomb</hi>) came up with Horſe and Foot to ayd the Popiſh Knight Sir <hi>Walter Haſtings,</hi> in keeping what villainy and trechery he had gained from us, and to ſee if they could gain what was yet left us.</p>
+            <p>In the Evening we left <hi>Weymouth,</hi> which we could not any longer make good, and betaking our ſelves to <hi>Melcomb,</hi> drew the Bridge, which lies betwixt the Towns. This place of <hi>Melcomb,</hi> our enemies tamely yeelded as untenable; and we had ſcarce beſtowed a Fortnights work on it ſince we poſſeſt this Garriſon, yet God made it tenable, and ſo our adverſaries found it. All this day they ſpent their great and ſmall ſhot laviſhly upon us, from the Forts, and ſome of their Gunners ingaged themſelves to levell us with the ground; but the Weapons form'd againſt us, did not proſper: For our Houſes ſtood, and little of our blood was ſpilt. After they ſaw the multitude, as of great Bullets, and Iron Bars, hot and cold, ſent againſt us, did us not the miſchief they intended, they abated ſome<g ref="char:EOLhyphen"/>what of their ſucceſſeleſſe fury. Our Horſe ſallied out ſome times, and fetcht us in ſome Proviſions and priſoners.</p>
+            <p>On <hi>Tueſday,</hi> Captain <hi>Martin</hi> came in the Ship, called the <hi>Providence,</hi> from <hi>Pool;</hi> the fight of any friend was an incouragement, and he was the welcomer, becauſe he brought along about fourſcore of our men who were upon ſervice abroad, at the time of the ſurpriſe, and might not well ad<g ref="char:EOLhyphen"/>venture by the Land paſſage to us.</p>
+            <p>On <hi>Wedneſday,</hi> came the Admirall into the Road, Captain <hi>Batten</hi> and another of the Parliaments Ships, to whoſe helpfulneſſe, both in eaſing us of our Priſoners, of which, we had above 200, and ayding of us with neer 200 men, we muſt acknowledge our ſelves very much indebted. It was a mercifull providence of God, that the Winde ſerved at that time to bring them hither.</p>
+            <p>On <hi>Thurſday</hi> our enemies began to fire us; and by ſmall Iron Sluggs heated in a Forge, which they ſhot out of their Muskets, ſet fire on a Thatcht-Houſe, over againſt the <hi>Chappell-Fort;</hi> from whence they ſhot about the Houſe continually, to hinder us from quenching the flames, but without the leaſt hurt to any man. This fire was ſoon put out, it onely conſumed two Houſes, bleſſed be God: Upon this we fell (though unwillingly) to the like courſe, and fired a houſe in the <hi>Chappell-Fort;</hi> but being little de<g ref="char:EOLhyphen"/>lighted with ſuch ſad ſpectacles, we ſent to the enemy, that there might be
+<pb n="5" facs="tcp:159488:3"/>no more ſuch work on either ſide; they ſent us word, They ſcorned to Parley with us, and would do what they pleaſed.</p>
+            <p>The day after, they fired again on the other ſide the Town, over againſt the <hi>North-point Fort,</hi> yet that alſo we quenched without the loſſe of one drop of blood. Upon this, we fired ſeven or eight of the Houſes in <hi>Wey<g ref="char:EOLhyphen"/>mouth;</hi> and whiles they endevoured to reſcue their Houſes from the flames, one was ſhot dead that betrayed us, and two others were wounded; After this there was no more burning on either ſide.</p>
+            <p>On <hi>Saturday</hi> came to us our friend, Lieutenant Colonel <hi>Haynes,</hi> with about 100. Horſe, which was an addition to our ſtrength and courage.</p>
+            <p>The next Morning, the Governour (whoſe valour and unwearied in<g ref="char:EOLhyphen"/>duſtry, we have cauſe bleſſe God for) went with Lieutenant Colonell <hi>Haynes.</hi> and all the Horſe, and opportunely met with a Troop of the enemies Horſe (neer <hi>Rodipole</hi>) routed them, took 45 priſoners, about 60 Horſe, ſlew 7. or 8. of them; took a Captain, and a Cornet: And this was done without the loſſe of one man, Major <hi>Brown,</hi> and the Governours Brother being onely ſlightly wounded. The Governour and ſome of our party, chaſed the little remnant of them that eſcaped up to the Gates of <hi>Weymouth:</hi> Hereupon, ſomewhat of the inſolency of our enemies was a<g ref="char:EOLhyphen"/>bated, ſo that we might exchange priſoners, and have a reputation with them.</p>
+            <p>In the beginning of the ſecond week of our trouble, our enemies lying at ſome further diſtance then formerly, we had the opportunitie to go a<g ref="char:EOLhyphen"/>broad with the Horſe, to fetch in Proviſions. We brought in 900 Sheep, and took a Captain, who expected not to finde our walk ſo large as we made it, and ſtumbled upon our men, thinking them to be of his own party. In both Towns there was every day a new expence of ſhot and blood on both ſides; but conſidering the many advantages they had continually up<g ref="char:EOLhyphen"/>on us, it did daily cauſe in us an admiration, that our loſſe ſhould be ſo little. Every night we were moleſted with the loude blaſphemies, and re<g ref="char:EOLhyphen"/>vilings of our enemies; but the worſe we found them, the greater was our hope of deliverance from them.</p>
+            <p>About the end of this week, came down the Lord <hi>Goring</hi> from <hi>Salis<g ref="char:EOLhyphen"/>bury;</hi> and on the Sabbath-day, all day faced us with his Horſe and Foot. No ſummons came from any of them, whether from a deſpair of any in<g ref="char:EOLhyphen"/>clination in us to ſurrender, or from what other cauſe it might proceed we know not.</p>
+            <p>This night they made a Work at the North end of the Town, which when the Governour diſcovered on <hi>Munday</hi> morning, he reſolved to take out a party of Foot and Horſe, and to ſee if they might be removed to a
+<pb n="6" facs="tcp:159488:4"/>further diſtance from us; but before they could be got together, our great ſhot kil'd ſome of them, and the reſt did not ſtay; ſo that we with caſe, took all their working-tools and the work, with a few Horſe; their Body of Horſe ſtanding on a Riſing ground, not far off, and looking on.</p>
+            <p>On <hi>Tueſday</hi> morning, we went out with our Horſe and ſome Foot, and met with a party of their Horſe, going with ſome Proviſions to <hi>Weymouth;</hi> we beat them from their Carriages, brought ſome of them into <hi>Melcomb,</hi> and had purſued them, had not another party been too neer our Rear. We burnt a Houſe at <hi>Radipole,</hi> a mile from the Town, where we ſuſpected they would lodge ſome Muskettiers, which might have done us no ſmall hurt.</p>
+            <p>Thoſe in <hi>Weymouth</hi> ſeeing their Horſe worſted, and flying before us, haſt<g ref="char:EOLhyphen"/>ed out a hundred Foot for their relief; the Governour being then in the field with the Horſe, and having intelligence of the motion of their Foot out of <hi>Weymouth,</hi> reſolved to fall over the Bridge, upon the Town, and to attempt the recovery of the <hi>Chappel-Fort;</hi> which ſuddenly drawing out ſeverall Squadrons out of every Company, he effected. Major <hi>Wilſon</hi> and Captain <hi>Langford,</hi> led on the party; the enemy not diſcovering our men, till they were upon the out-works, ran into the <hi>Chappel,</hi> and after a ſhot or two, cried quarter. Thus had we now again regained the command of the Town of <hi>Weymouth;</hi> took in the Fort and Town above 100 priſoners, one Lieutenant Colonel, one Major, three Captains, beſides other Officers; we took about 40 Load of Proviſions of all ſorts, which they had brought in the Lords day before; we ſlew here, their Marſhall, and <hi>Philip Aſh,</hi> the fourth of the confedrates, who had conſpired our ruine, which received his reward; beſides three or four other men. At this time our Proviſions for Horſe, were almoſt exhauſted, ſo that if God had not ſupplied us out of our enemies ſtore, we had been driven to great extremities.</p>
+            <p>This invaluable mercy, was the firſt ſtep to our recovery: Our enemy could not now harbour ſo neer us as before, nor relieve their friends in the North-point ſo eaſily, being to paſſe by us; beſides, this Fort overlooking <hi>Melcomb,</hi> did us far more miſchief then the North-point. We relieved here ſome honeſt men that were their priſoners, which made it more a mercy, and took ſome of the profidious Townſmen, who after taking the Covenant with us, were got into Arms againſt us. Amongſt other Pil<g ref="char:EOLhyphen"/>lage in the Town of <hi>Weymouth,</hi> we took Captain <hi>Kaines</hi> a Papiſt, his Port-mantle, wherein we had a parcell of Holy-Beads, a Commiſſion for a Ship to play the Pyrat with at Sea, which lay blank at <hi>Dunkirk,</hi> till by Maſter <hi>Henry Jermins</hi> Letters (which we have alſo) he had his name put in. Our enemies upon this loſſe, began to think of packing up, but Sir <hi>Lewis</hi> was loth to leave us ſo; and therefore importunes the Lord <hi>Goring</hi> (who
+<pb n="7" facs="tcp:159488:4"/>for ought we can hear, had no great ſtomack to the buſineſſe) to try an on-ſlaught upon us.</p>
+            <p>On <hi>Thurſday,</hi> they marcht with their Horſe, Foot, and Carriages, from <hi>Dorcheſter,</hi> towards us; but do ſo guard all wayes, that no intelligence muſt come neer us.</p>
+            <p>Here fell in another ſtrange providence of God for us. One of our men who had been taken priſoner, two or three dayes before (though very ſtrictly watcht) broke from them, and got ſafe to our Horſe then in the field; by him we had notice of all their intendments; whereupon we put our ſelves into the moſt prepared poſture we could, to receive them. We quit the Weſt-guard of <hi>Weymouth,</hi> and made a Barricado below in the ſtreet beneath the <hi>Chappel-Fort,</hi> planted a Gun there, and ordered all the other Guards, ſo as might ſerve beſt for the repulſe of them that were com<g ref="char:EOLhyphen"/>ing againſt us. About one or two of the clock the night, (it being light) on they come, the moſt conſiderable part of them on the Weſt-ſide, where entring the work (which we quit) ſo eaſily, they thought all their own, and gave a loud hoop (which ended in heavy groans with ſome of them not long after.) They had not come in a Body far down the ſtreet, but their preſumption was confuted, and they wiſht themſelves further off: A long time ſhot was going on both ſides; but at laſt ſeeing they got no<g ref="char:EOLhyphen"/>thing but wounds, by ſtaying, they began to run away, and be quiet, lea<g ref="char:EOLhyphen"/>ving five dead men in the ſtreets: One Lieutenant, ſo wounded, that he could not get off, and ſome common ſouldiers. The people ſaw them carry away ſome of their Gallants, and ſince that, they buried ſome they carried away at <hi>Dorcheſter,</hi> and other places. On the other ſide from the <hi>North-point,</hi> the <hi>Iriſh</hi> Rebels; and others of their fraternity ſell on, and the Barri<g ref="char:EOLhyphen"/>cado made that way, lying below the Houſes under the Hill, the enemy broke in within the Barricado through the Houſes, and put our men to a ſomewhat diſorderly retreat thence; but they fell back to a ſecond Barri<g ref="char:EOLhyphen"/>cado, where a Gun was planted, which they had been in a way to deſert too, but that the Governour came ſeaſonably in, and commanded them to make it good; ſo they fired the Gun upon the enemy, whereupon they fled back and were followed by a party, taken off from the main Guard, to the further Barricado formerly quitted. Here we wounded another of them that betrayed us, who died of his wound a day or two after. The Governours Horſe was here ſhot in the Head. Thoſe on the North end of the Town, did onely lie behinde a bank, firing at a diſtance, and came not up, yet left ſome of their blood behinde them. So after about two hours fight, they very ſilently ſtole away, that we might not fall upon their Rear. They retreated to <hi>Wike,</hi> about a mile from the Town, and having ſtayed a
+<pb n="8" facs="tcp:159488:5"/>while to uſe ſome Chirurgery about their wounds, and to take their friends out of our Forts a long with them; at laſt they marcht away, curſing and ſwearing. We were ſtruck with much wonder, to ſee them leave our Forts, and could not ſtudy the meaning of it: But away they went, and left us our Holds and Guns, not paſt three or four of them ſpikt; our Corn ſtacks unburnt, our Ships unſpoiled, and departed with as little miſchief doing, as if they had been our verieſt friends. <hi>Oh that we could praiſe the Lord, for his goodneſſe, and for his wonderfull Works, that he doth for the chil<g ref="char:EOLhyphen"/>dren of men.</hi> Had we enjoyed our old quiet, we had not ſeen ſo much of God as now we have; and many of us would not for the world have wanted the experiences we have now gained.</p>
+            <p>We have not loſt ſince our aſſault upon the <hi>Chappel-Fort,</hi> any Officer, not ſo much as a Corporall, and not above 20 men; our enemies report their loſſe of men, one way and another, taken, ſlain, and wounded, 4 or 500. men.</p>
+            <p>Thus God relieved us without the help of an Army, and therefore we deſire he may have the greater glory. Since we have been repoſſeſſeſt of our own, we have examined the Survivers of them that were Agents in the contrivement of our deſtruction; and upon <hi>Saturday, March</hi> the firſt, Captain <hi>Cade,</hi> an Alderman of the Town, <hi>Thomas Samwayes</hi> a Tailor, <hi>John Mils, Walter Bond,</hi> were tryed by a Councell of War, and ſentenced to be hanged: A fitter reward for their Fact, then the 500 pound, one of them confeſſes, Sir <hi>Lewis</hi> was to give them. <hi>Cade</hi> and <hi>Mils,</hi> and an <hi>Iriſh</hi> Rebel, were hanged at the <hi>North-point</hi> on <hi>Munday</hi> morning, the other two be re<g ref="char:EOLhyphen"/>prieved to make a further diſcovery of their partners. There be not many of the villains left, but their ſin hath found them out.</p>
+            <p>We have ground to hope for a Diſcovery of the reſt. We hope this place ſhall be ſo weeded of ſuch inhabitants, that we ſhall not come under the like dangers. We deſire other places, and amongſt them, the great Citie of the Kingdom, may learn by us to take heed how they keep falſe men, and malignant ſpirits amongſt them, who do but wait when they may be employed upon the like Deſignes.</p>
+            <p>The God that hath delivered many other places of late, and now us, ſtill turn theſe mens counſels into fooliſhneſſe, and diſappoint the devices of the Crafty, ſo that their hands may not bring about their enterpriſes. We de<g ref="char:EOLhyphen"/>ſire our friends may not look upon any valour or activity of ours, as our deliverers; but meerly upon that God who gave us whatever courage or ſucceſſe we had: <hi>To whom, and not to us, be glory for ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
